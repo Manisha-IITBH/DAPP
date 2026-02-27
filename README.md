@@ -21,7 +21,7 @@ https://challenge.isic-archive.com/data/#2019 for FedISIC dataset.
 |-------------|---------------------|-----------------|
 | Number of Clients | 6 | 10 (5 India + 5 China) |
 | Number of Classes | 8 | 5 |
-| Communication Rounds |  |  |
+| Communication Rounds | 20 | 5 |
 | Client Participation | All clients | All clients |
 | Local Epochs per Round | 10 | 10 |
 | Batch Size | 32 | 32 |
